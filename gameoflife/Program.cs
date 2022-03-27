@@ -19,20 +19,20 @@ namespace gameoflife
             gamedraw.AddCell(3, 4);
             gamedraw.AddCell(4, 4);
             //3 in one line
-            //jatekrajzolo.AddCell(7, 5);
-            //jatekrajzolo.AddCell(7, 6);
-            //jatekrajzolo.AddCell(7, 7);
+            //gamedraw.AddCell(7, 5);
+            //gamedraw.AddCell(7, 6);
+            //gamedraw.AddCell(7, 7);
 
             //3 in one column
-            //jatekrajzolo.AddCell(7, 3);
-            //jatekrajzolo.AddCell(8, 3);
-            //jatekrajzolo.AddCell(9, 3);
+            //gamedraw.AddCell(7, 3);
+            //gamedraw.AddCell(8, 3);
+            //gamedraw.AddCell(9, 3);
 
             //cube
-            //jatekrajzolo.AddCell(7, 3);
-            //jatekrajzolo.AddCell(7, 4);
-            //jatekrajzolo.AddCell(8, 3);
-            //jatekrajzolo.AddCell(8, 4);
+            //gamedraw.AddCell(7, 3);
+            //gamedraw.AddCell(7, 4);
+            //gamedraw.AddCell(8, 3);
+            //gamedraw.AddCell(8, 4);
 
             //works on keypress
             //while (true)
