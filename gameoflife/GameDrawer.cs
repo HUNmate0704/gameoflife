@@ -51,7 +51,7 @@ namespace gameoflife
                     }
 
                 }
-                Console.Write("\n");
+                //Console.Write("\n");
             }
         }
 
